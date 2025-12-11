@@ -1,0 +1,7 @@
+{
+      "name": "fwd2syslog",
+      "description": "Native host for logging to syslog from Chrome extension",
+      "path": "/home/paul/chrome-extension-clicks-and-links-main/fwd2syslog.py",
+      "type": "stdio",
+      "allowed_origins": [ "chrome-extension://{extension ID}/" ]
+}

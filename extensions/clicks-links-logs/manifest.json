@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Record user interaction and disable blocklisted links",
+  "version": "1.0",
+  "description": "Records actions and disables specified links but allows manual connections; also logs to syslog",
+
+  "permissions": [ "tabs", "activeTab", "webRequest", "webNavigation", "nativeMessaging"],
+
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
