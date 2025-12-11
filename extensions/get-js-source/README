@@ -1,0 +1,6 @@
+# get-js-source
+Get JS source after V8 parsing
+
+Chrome extension exposes source code from V8 after parsing
+   Uses type: https://chromedevtools.github.io/devtools-protocol/tot/Debugger/#event-scriptParsed
+   and method: https://chromedevtools.github.io/devtools-protocol/tot/Debugger/#method-getScriptSource
