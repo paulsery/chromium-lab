@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Block downloads",
+  "version": "1.0",
+  "description": "download api to block file types",
+
+  "permissions": ["downloads", "notifications", "tabs", "activeTab", "scripting" ],
+
+  "background": {
+    "service_worker": "service-worker.js"
+  }
+}
