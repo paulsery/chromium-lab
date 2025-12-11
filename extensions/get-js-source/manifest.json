@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Get JS Source from V8 parser",
+  "description": "Uses the chrome.debugger API to get JS Source Code after V8 parse",
+  "version": "1.0",
+
+  "permissions": ["debugger", "tabs", "activeTab"],
+
+  "host_permissions": ["https://*/*"],
+
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+
+  "action": {}
+}
