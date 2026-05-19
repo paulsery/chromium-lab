@@ -1,5 +1,5 @@
 {
-  "manifest_version": 4,
+  "manifest_version": 3,
   "name": "Record user interaction and disable blocklisted links",
   "version": "1.0",
   "description": "Records actions and disables specified links but allows manual connections; also logs to syslog",
