@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://google.com' protocol='2.0'>
+  <app appid='jkllkpmhfoglbpkboehfapifpnbjjdnc'>
+    <updatecheck codebase='https://github.io' version='1.0.0' />
+  </app>
+</gupdate>
