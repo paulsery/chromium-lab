@@ -9,16 +9,16 @@ function logEvent(event) {
   function handleResponse(response) {
     console.log(`Received response from native app: ${JSON.stringify(response)}`);
   }
-
+  console.log('Event: ', event);
   function handleError(error) {
     console.error('Error sending native message:', error);
   }
 
-  chrome.runtime.sendNativeMessage(
-    'fwd2syslog', { type: 'getData', payload: event }
-  )
-  .then(handleResponse) // Fulfilled when the native app sends a response
-  .catch(handleError); // Rejected if an error occurs during connection or messaging
+//  chrome.runtime.sendNativeMessage(
+//    'fwd2syslog', { type: 'getData', payload: event }
+//  )
+//  .then(handleResponse) // Fulfilled when the native app sends a response
+//  .catch(handleError); // Rejected if an error occurs during connection or messaging
 }
 
 
