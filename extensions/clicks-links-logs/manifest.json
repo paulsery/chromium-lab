@@ -3,7 +3,7 @@
   "name": "Record user interaction and disable blocklisted links",
   "version": "1.0",
   "description": "Records actions and disables specified links but allows manual connections; also logs to syslog",
-
+  "update_url": "https://paulsery.github.io/chromium-lab/extensions/clicks-links-logs/update.xml",
   "permissions": [ "tabs", "activeTab", "webRequest", "webNavigation", "nativeMessaging"],
 
   "background": {
